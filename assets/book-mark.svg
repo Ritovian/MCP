@@ -1,14 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title">
-  <title id="title">Ritovian: the open book, held by the two tablets</title>
+  <title id="title">Ritovian MCP open book</title>
   <g fill="none" stroke="#AD8560" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M13 86V27.5a17 17 0 0 1 34 0V30M47 79v7H13M49 30v-2.5a17 17 0 0 1 34 0V86H49v-7" stroke-width="1.25"/>
-    <path d="M19 32.5h6m3 0h8M19 36.5h10m3 0h4M19 40.5h7m3 0h5" stroke-width="1"/>
-    <path d="M77 32.5h-6m-3 0h-8M77 36.5h-10m-3 0h-4M77 40.5h-7m-3 0h-5" stroke-width="1"/>
-    <path d="m48 30.5 6.5 6.5-6.5 6.5-6.5-6.5Z" stroke-width="1.1"/>
-    <g transform="translate(48 62.5) scale(0.86) translate(-48 -58)">
-      <path d="M48 43c-8-6-17-7-26-5v29c9-2 18-1 26 5 8-6 17-7 26-5V38c-9-2-18-1-26 5Z" stroke-width="2.05"/>
-      <path d="M48 43v29M18 42v30c11-2 21 0 30 6 9-6 19-8 30-6V42" stroke-width="1.45"/>
-      <path d="M29 46c4 0 8 1 12 3m-12 5c4 0 8 1 12 3m26-11c-4 0-8 1-12 3m12 5c-4 0-8 1-12 3" stroke-width="1.15"/>
-    </g>
+    <circle cx="48" cy="48" r="43" stroke-width="0.75"/>
+    <path d="M15 66V40a33 33 0 0 1 66 0v26" stroke-width="1"/>
+    <path d="M48 43c-8-6-17-7-26-5v29c9-2 18-1 26 5 8-6 17-7 26-5V38c-9-2-18-1-26 5Z" stroke-width="1.75"/>
+    <path d="M48 43v29M18 42v30c11-2 21 0 30 6 9-6 19-8 30-6V42" stroke-width="1.25"/>
+    <path d="M29 46c4 0 8 1 12 3m-12 5c4 0 8 1 12 3m26-11c-4 0-8 1-12 3m12 5c-4 0-8 1-12 3" stroke-width="1"/>
+    <path d="m48 21 4 4-4 4-4-4Z" stroke-width="1"/>
   </g>
 </svg>
